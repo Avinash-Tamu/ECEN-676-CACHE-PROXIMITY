@@ -1,0 +1,1 @@
+barrier.o: barrier.cpp
